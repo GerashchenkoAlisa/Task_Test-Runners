@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestsComparison/.vs/TestsComparison
+/TestsComparison/NUnit Test/bin/Debug/net8.0
+/TestsComparison/XUnit Test/obj
+/.vs
+/TestsComparison/NUnit Test/obj/Debug/net8.0
+/TestsComparison/XUnit Test/bin/Debug/net8.0/cs
+/TestsComparison/XUnit Test/bin/Debug/net8.0/de
+/TestsComparison/NUnit Test/obj
+/TestsComparison/XUnit Test/bin/Debug/net8.0/es
+/TestsComparison/XUnit Test/bin/Debug/net8.0/fr
+/TestsComparison/XUnit Test/bin/Debug/net8.0/it
+/TestsComparison/XUnit Test/bin/Debug/net8.0/ja
+/TestsComparison/XUnit Test/bin/Debug/net8.0/ko
+/TestsComparison/XUnit Test/bin/Debug/net8.0/pl
+/TestsComparison/XUnit Test/bin/Debug/net8.0/pt-BR
+/TestsComparison/XUnit Test/bin/Debug/net8.0/ru
+/TestsComparison/XUnit Test/bin/Debug/net8.0
